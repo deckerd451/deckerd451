@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deckerd451
-- 👀 I’m interested in XR design in Unity and AR 
-- 🌱 I’m currently learning Lightship
-- 💞️ I’m looking to collaborate on Lightship questions for a project
+- 👀 I’m interested in XR design in Unity, and creating hackthons
+- 🌱 I’m currently learning to Vibecode
+- 💞️ I’m looking to collaborate on Agentic AI
 - 📫 How to reach me at dmhamilton1@live.com
 
 <!---
